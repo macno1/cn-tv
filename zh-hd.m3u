@@ -9,8 +9,6 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 #EXTINF:-1 tvg-id="HOYTV.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,HOY TV ·1080P
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 tvg-id="NTDTV.us@East" group-title="① 1080P+ · HLS 实测确认" ,NTD TV ·1080P
-https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,Pet Club TV ·1080P
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,RTHK TV 31 ·1080P
@@ -41,12 +39,12 @@ https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-id="GoldenJade.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,Golden Jade ·1080P ⚠
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-#EXTINF:-1 tvg-id="Jade.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,Jade ·1080P ⚠
-http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,Mei Ah Movie Channel ·1080P ⚠
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw@SD" group-title="① 1080P+ · HLS 实测确认" ,TVBS-Asia ·1080P ⚠
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="Jade.hk@SD" group-title="① 1080P+ · HLS 实测确认" ,TVB翡翠台 ·1080P ⚠
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" group-title="① 1080P+ · HLS 实测确认" ,深圳卫视 ·1080P ⚠
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" group-title="① 1080P+ · HLS 实测确认" ,福建海峡卫视 ·1080P ⚠
