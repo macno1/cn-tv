@@ -1,5 +1,5 @@
 #EXTM3U
-# 中文台精选 · 高清专版 | 画质取自 HLS 主播放列表的 RESOLUTION 实测值，不采信频道名里的"高清/HD"（公开源多数名字里根本没有分辨率信息） | 生成 2026-09-23
+# 中文台精选 · 高清专版（可选，通常不需要）| 只保留实测 >=1080P 的线路。画质取自 HLS 主播放列表的 RESOLUTION 实测值，不采信频道名里的"高清/HD"。主列表 zh.m3u 内每个频道本来就默认播它最好的那条线路，所以这份只在"只想看高清台"或带宽很紧时才用 | 生成 2026-09-23
 
 #EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="① 1080P+ · HLS 实测确认" ,CGTN ·1080P
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
