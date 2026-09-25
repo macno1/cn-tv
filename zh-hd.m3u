@@ -1,89 +1,89 @@
 #EXTM3U url-tvg="https://live.fanmingming.com/e.xml" x-tvg-url="https://live.fanmingming.com/e.xml"
-# 中文台精选 · 高清专版（可选，通常不需要）| 只保留实测 >=1080P 的线路。画质取自 HLS 主播放列表的 RESOLUTION 实测值，不采信频道名里的"高清/HD"。主列表 zh.m3u 内每个频道本来就默认播它最好的那条线路，所以这份只在"只想看高清台"或带宽很紧时才用 | 生成 2026-09-24
+# 中文台精选 · 高清专版（可选，通常不需要）| 只保留实测 >=1080P 的线路。画质取自 HLS 主播放列表的 RESOLUTION 实测值，不采信频道名里的"高清/HD"。主列表 zh.m3u 内每个频道本来就默认播它最好的那条线路，所以这份只在"只想看高清台"或带宽很紧时才用 | 生成 2026-09-25
 
-#EXTINF:-1 tvg-id="CCTV9" group-title="① 1080P+ · HLS 实测确认" ,CCTV-9 ·高清
+#EXTINF:-1 tvg-id="CCTV9" group-title="高清 · HLS 实测确认" ,CCTV-9 ·高清
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="① 1080P+ · HLS 实测确认" ,CCTV-15 ·高清
+#EXTINF:-1 tvg-id="CCTV15" group-title="高清 · HLS 实测确认" ,CCTV-15 ·高清
 https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="CGTN英语" group-title="① 1080P+ · HLS 实测确认" ,CGTN ·高清
+#EXTINF:-1 tvg-id="CGTN英语" group-title="高清 · HLS 实测确认" ,CGTN ·高清
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CGTN Global Biz" group-title="① 1080P+ · HLS 实测确认" ,CGTN Global Biz ·高清
+#EXTINF:-1 tvg-id="CGTN Global Biz" group-title="高清 · HLS 实测确认" ,CGTN Global Biz ·高清
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 tvg-id="Asian Drama" group-title="① 1080P+ · HLS 实测确认" ,Asian Drama ·高清 ⚠
+#EXTINF:-1 tvg-id="Asian Drama" group-title="高清 · HLS 实测确认" ,Asian Drama ·高清
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-#EXTINF:-1 tvg-id="汾西综合" group-title="① 1080P+ · HLS 实测确认" ,汾西综合 ·高清
+#EXTINF:-1 tvg-id="汾西综合" group-title="高清 · HLS 实测确认" ,汾西综合 ·高清
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-#EXTINF:-1 tvg-id="凤凰香港" group-title="① 1080P+ · HLS 实测确认" ,凤凰香港 ·高清
+#EXTINF:-1 tvg-id="凤凰香港" group-title="高清 · HLS 实测确认" ,凤凰香港 ·高清
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" group-title="① 1080P+ · HLS 实测确认" ,凤凰香港 ·高清
+#EXTINF:-1 tvg-id="凤凰香港" group-title="高清 · HLS 实测确认" ,凤凰香港 ·高清
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-#EXTINF:-1 tvg-id="福建海峡卫视" group-title="① 1080P+ · HLS 实测确认" ,福建海峡卫视 ·高清 ⚠
+#EXTINF:-1 tvg-id="福建海峡卫视" group-title="高清 · HLS 实测确认" ,福建海峡卫视 ·高清
 http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-#EXTINF:-1 tvg-id="Golden Jade" group-title="① 1080P+ · HLS 实测确认" ,Golden Jade ·高清 ⚠
+#EXTINF:-1 tvg-id="Golden Jade" group-title="高清 · HLS 实测确认" ,Golden Jade ·高清
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-#EXTINF:-1 tvg-id="Good 2" group-title="① 1080P+ · HLS 实测确认" ,Good 2 ·高清
+#EXTINF:-1 tvg-id="Good 2" group-title="高清 · HLS 实测确认" ,Good 2 ·高清
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="Good TV" group-title="① 1080P+ · HLS 实测确认" ,Good TV ·高清
+#EXTINF:-1 tvg-id="Good TV" group-title="高清 · HLS 实测确认" ,Good TV ·高清
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="HOY Infotainment" group-title="① 1080P+ · HLS 实测确认" ,HOY Infotainment ·高清
+#EXTINF:-1 tvg-id="HOY Infotainment" group-title="高清 · HLS 实测确认" ,HOY Infotainment ·高清
 https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
-#EXTINF:-1 tvg-id="HOY TV" group-title="① 1080P+ · HLS 实测确认" ,HOY TV ·高清
+#EXTINF:-1 tvg-id="HOY TV" group-title="高清 · HLS 实测确认" ,HOY TV ·高清
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 tvg-id="美亚电影" group-title="① 1080P+ · HLS 实测确认" ,美亚电影 ·高清 ⚠
+#EXTINF:-1 tvg-id="美亚电影" group-title="高清 · HLS 实测确认" ,美亚电影 ·高清
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1 tvg-id="Pet Club TV" group-title="① 1080P+ · HLS 实测确认" ,Pet Club TV ·高清
+#EXTINF:-1 tvg-id="Pet Club TV" group-title="高清 · HLS 实测确认" ,Pet Club TV ·高清
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 31" group-title="① 1080P+ · HLS 实测确认" ,RTHK TV 31 ·高清
+#EXTINF:-1 tvg-id="RTHK TV 31" group-title="高清 · HLS 实测确认" ,RTHK TV 31 ·高清
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 32" group-title="① 1080P+ · HLS 实测确认" ,RTHK TV 32 ·高清
+#EXTINF:-1 tvg-id="RTHK TV 32" group-title="高清 · HLS 实测确认" ,RTHK TV 32 ·高清
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 33" group-title="① 1080P+ · HLS 实测确认" ,RTHK TV 33 ·高清
+#EXTINF:-1 tvg-id="RTHK TV 33" group-title="高清 · HLS 实测确认" ,RTHK TV 33 ·高清
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 34" group-title="① 1080P+ · HLS 实测确认" ,RTHK TV 34 ·高清
+#EXTINF:-1 tvg-id="RTHK TV 34" group-title="高清 · HLS 实测确认" ,RTHK TV 34 ·高清
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 35" group-title="① 1080P+ · HLS 实测确认" ,RTHK TV 35 ·高清
+#EXTINF:-1 tvg-id="RTHK TV 35" group-title="高清 · HLS 实测确认" ,RTHK TV 35 ·高清
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" group-title="① 1080P+ · HLS 实测确认" ,深圳卫视 ·高清 ⚠
+#EXTINF:-1 tvg-id="深圳卫视" group-title="高清 · HLS 实测确认" ,深圳卫视 ·高清
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 tvg-id="TVB翡翠台" group-title="① 1080P+ · HLS 实测确认" ,TVB翡翠台 ·高清 ⚠
+#EXTINF:-1 tvg-id="TVB翡翠台" group-title="高清 · HLS 实测确认" ,TVB翡翠台 ·高清
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-id="TVBS-Asia" group-title="① 1080P+ · HLS 实测确认" ,TVBS-Asia ·高清 ⚠
+#EXTINF:-1 tvg-id="TVBS-Asia" group-title="高清 · HLS 实测确认" ,TVBS-Asia ·高清
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-2 ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV2" group-title="高清 · 按地址推断（未验证）" ,CCTV-2 ·高清
 http://173.208.212.130:8181/1080p/cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV2" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-2 ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV2" group-title="高清 · 按地址推断（未验证）" ,CCTV-2 ·高清
 http://204.12.221.218:8181/3m1080p/cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-4K ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV4K" group-title="高清 · 按地址推断（未验证）" ,CCTV-4K ·高清
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV13" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-13 ·高清
+#EXTINF:-1 tvg-id="CCTV13" group-title="高清 · 按地址推断（未验证）" ,CCTV-13 ·高清
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 tvg-id="CCTV14" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-14 ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV14" group-title="高清 · 按地址推断（未验证）" ,CCTV-14 ·高清
 http://173.208.212.130:8181/1080p/cctv14.m3u8
-#EXTINF:-1 tvg-id="CCTV14" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-14 ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV14" group-title="高清 · 按地址推断（未验证）" ,CCTV-14 ·高清
 http://204.12.221.218:8181/3m1080p/cctv14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-15 ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV15" group-title="高清 · 按地址推断（未验证）" ,CCTV-15 ·高清
 http://204.12.221.218:8181/3m1080p/cctv15.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="② 高清 · 按地址推断（未验证）" ,CCTV-15 ·高清 ⚠
+#EXTINF:-1 tvg-id="CCTV15" group-title="高清 · 按地址推断（未验证）" ,CCTV-15 ·高清
 http://173.208.212.130:8181/1080p/cctv15.m3u8
-#EXTINF:-1 tvg-id="浙江公共新闻" group-title="② 高清 · 按地址推断（未验证）" ,浙江公共新闻 ·高清
+#EXTINF:-1 tvg-id="浙江公共新闻" group-title="高清 · 按地址推断（未验证）" ,浙江公共新闻 ·高清
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" group-title="② 高清 · 按地址推断（未验证）" ,浙江教科影视 ·高清
+#EXTINF:-1 tvg-id="浙江教科影视" group-title="高清 · 按地址推断（未验证）" ,浙江教科影视 ·高清
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经济" group-title="② 高清 · 按地址推断（未验证）" ,浙江经济 ·高清
+#EXTINF:-1 tvg-id="浙江经济" group-title="高清 · 按地址推断（未验证）" ,浙江经济 ·高清
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经济生活" group-title="② 高清 · 按地址推断（未验证）" ,浙江经济生活 ·高清
+#EXTINF:-1 tvg-id="浙江经济生活" group-title="高清 · 按地址推断（未验证）" ,浙江经济生活 ·高清
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" group-title="② 高清 · 按地址推断（未验证）" ,浙江钱江都市 ·高清
+#EXTINF:-1 tvg-id="浙江钱江都市" group-title="高清 · 按地址推断（未验证）" ,浙江钱江都市 ·高清
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" group-title="② 高清 · 按地址推断（未验证）" ,浙江少儿 ·高清
+#EXTINF:-1 tvg-id="浙江少儿" group-title="高清 · 按地址推断（未验证）" ,浙江少儿 ·高清
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" group-title="② 高清 · 按地址推断（未验证）" ,浙江卫视 ·高清
+#EXTINF:-1 tvg-id="浙江卫视" group-title="高清 · 按地址推断（未验证）" ,浙江卫视 ·高清
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" group-title="② 高清 · 按地址推断（未验证）" ,浙江卫视 ·高清
+#EXTINF:-1 tvg-id="浙江卫视" group-title="高清 · 按地址推断（未验证）" ,浙江卫视 ·高清
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="之江纪录" group-title="② 高清 · 按地址推断（未验证）" ,之江纪录 ·高清
+#EXTINF:-1 tvg-id="之江纪录" group-title="高清 · 按地址推断（未验证）" ,之江纪录 ·高清
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="中国蓝新闻" group-title="② 高清 · 按地址推断（未验证）" ,中国蓝新闻 ·高清
+#EXTINF:-1 tvg-id="中国蓝新闻" group-title="高清 · 按地址推断（未验证）" ,中国蓝新闻 ·高清
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 
