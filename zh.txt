@@ -1,33 +1,13 @@
-① 香港,#genre#
+① 港台 · 海外,#genre#
+澳门卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 Asian Drama,http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+Channel 8,https://cdn.qd.je/163189/ch8
+Channel U,https://cdn.qd.je/163189/chu
+DAAI TV,https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-Golden Jade,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-HOY Infotainment,https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
-HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
-美亚电影,http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
-RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK TV 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK TV 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK TV 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-RTHK TV 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-RTHK TV 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-
-② 凤凰,#genre#
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -37,8 +17,44 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+Golden Jade,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+Good 2,https://live.streamingfast.net/osmflivech2.m3u8
+Good TV,https://live.streamingfast.net/osmflivech1.m3u8
+HOY Infotainment,https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+美亚电影,http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK TV 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK TV 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK TV 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+RTHK TV 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+RTHK TV 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
-③ 央视,#genre#
+② 央视 · 卫视,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://59.39.89.130:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -114,9 +130,6 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-
-④ 卫视,#genre#
-澳门卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 兵团卫视,http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://59.39.89.130:60901/tsfile/live/0125_24.m3u8?key=txiptv&playlive=1&authid=0
@@ -170,8 +183,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
 山东卫视,http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -207,24 +218,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 
-⑤ 港澳台 / 海外中文,#genre#
-澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-Channel 8,https://cdn.qd.je/163189/ch8
-Channel U,https://cdn.qd.je/163189/chu
-DAAI TV,https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
-Good 2,https://live.streamingfast.net/osmflivech2.m3u8
-Good TV,https://live.streamingfast.net/osmflivech1.m3u8
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-
-⑥ 地方台 / 城市台,#genre#
+③ 地方台,#genre#
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
