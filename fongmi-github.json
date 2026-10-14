@@ -1,0 +1,15 @@
+{
+ "sites": [],
+ "lives": [
+  {
+   "name": "① 中文台精选",
+   "type": 0,
+   "url": "https://macno1.github.io/cn-tv/zh.m3u"
+  },
+  {
+   "name": "② 全球精选",
+   "type": 0,
+   "url": "https://macno1.github.io/cn-tv/global.m3u"
+  }
+ ]
+}
